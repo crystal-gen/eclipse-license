@@ -1,0 +1,8 @@
+name: eclipse-license
+version: 0.1.0
+description: Eclipse Public License 1.0 generator
+
+gen:
+  file:
+    license:
+      dest: LICENSE
