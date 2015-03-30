@@ -1,0 +1,7 @@
+name: eclipse-license-test
+version: 0.1.0
+description: eclipse-license test
+
+generators:
+  eclipse-license:
+    version: latest
